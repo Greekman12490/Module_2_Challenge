@@ -9,29 +9,20 @@ This project is to help Steve with viewing data from a dataset that includes inf
 ## Results
 
 ### Analysis of Original 2017 Code and Refactored 2017 Code
-	
-If we compare the original code with the refactored, a couple of odd things show up. Which may be an issue with the code that was written. The ticker results show
-the year 2018 instead of the 2017. However, the time result shows the runtime being faster on the original code instead of the refactored. We can take mulitiple things into account.
-One, we have to consider what computer a person uses. The computer used for this code may have taken longer to execute it. Two, it is going through a lot of data to show results.
+
+If we compare the original code with the refactored, a couple of odd things show up. Which may be an issue with the code that was written. The ticker results show the year 2018 instead of the 2017. However, the time result shows the runtime being faster on the original code instead of the refactored. We can take mulitiple things into account. One, we have to consider what computer a person uses. The computer used for this code may have taken longer to execute it. Two, it is going through a lot of data to show results.
 
 ### Analysis of Original 2018 Code and Refactored 2018 Code
 
-Unlike the comparsion from before, the code seemed to work fine for the year of 2018. The time results however seem to show the same as 2017. The refactored is a little slower,
-which seems to be the similarity between the two years and the difference in code. The ticker results show the same. If we decided to reformat it, it would also show the same results.
+Unlike the comparsion from before, the code seemed to work fine for the year of 2018. The time results however seem to show the same as 2017. The refactored is a little slower, which seems to be the similarity between the two years and the difference in code. The ticker results show the same. If we decided to reformat it, it would also show the same results.
 
 ### Challenges and Difficulties Encountered
 
-When the code was written, I would experience a multitude of errors because of how the was code written. All of which were resolved and the code was able to run.
-The errors that would occur would be overflow errors. Which when look up is because of a variable would be too small for the contained data. The odd thing about 
-the code when the error occurred, the typical fix would be to change the variable or add additional code such as "CLng". This didn't solve the problem. A more simple solution was needed 
-to fix the problem. That would be..... spacing. Yes, spacing. Which made the code execute.
+When the code was written, I would experience a multitude of errors because of how the was code written. All of which were resolved and the code was able to run. The errors that would occur would be overflow errors. Which when look up is because of a variable would be too small for the contained data. The odd thing about the code when the error occurred, the typical fix would be to change the variable or add additional code such as "CLng". This didn't solve the problem. A more simple solution was needed  to fix the problem. That would be..... spacing. Yes, spacing. Which made the code execute.
 
 ## Summary
 
-In conclusion with all you have read, one advantage we can take from this is, you can get the same results with better code. However, the better code may take longer to execute
-because of more data needed to execute. But, in reality, does that make it better or worse? Since we can see the runtime being longer, we can view that as a disadvantage to our code.
-If you the run the original code, you can see seem slightly faster than the refactored. However, the original causes faults due to the possiblity of an error in code. 
-That error could be just a missing line. If you run the code multiples times however, time results will vary. 
+In conclusion with all you have read, one advantage we can take from this is, you can get the same results with better code. However, the better code may take longer to execute because of more data needed to execute. But, in reality, does that make it better or worse? Since we can see the runtime being longer, we can view that as a disadvantage to our code. If you the run the original code, you can see seem slightly faster than the refactored. However, the original causes faults due to the possiblity of an error in code.  That error could be just a missing line. If you run the code multiples times however, time results will vary. 
 
 
 
