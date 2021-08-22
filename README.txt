@@ -4,10 +4,7 @@
 
 ### Purpose
 	
-This project is to help Steve with viewing data from a dataset that includes information from the stock market at a set year. Being that code originally
-was written for a finite amount of stocks, we wanted to make sure it runs for more than a finite amount. Not only that, we want to see if the code runs faster than the original.
-If the code does, that is great. If not, something has to be done. We will take the original code and tweak it to provide the results we need. This edit as you will,
-is known as refactoring. The following paragraphs will determine if we succeeded in our refactoring to help Steve.
+This project is to help Steve with viewing data from a dataset that includes information from the stock market at a set year. Being that code originally was written for a finite amount of stocks, we wanted to make sure it runs for more than a finite amount. Not only that, we want to see if the code runs faster than the original. If the code does, that is great. If not, something has to be done. We will take the original code and tweak it to provide the results we need. This edit as you will, is known as refactoring. The following paragraphs will determine if we succeeded in our refactoring to help Steve.
 
 ## Results
 
